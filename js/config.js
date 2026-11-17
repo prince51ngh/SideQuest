@@ -6,6 +6,7 @@ export const CONFIG = {
   appName: "SideQuest",
   supabaseUrl: "https://gpmfjifxxuwretqfroxs.supabase.co",
   supabaseAnonKey: "sb_publishable_8qOksnvJrE5liHEsDyHV8A_VMc0gfQU",
+  stripePublishableKey: "pk_test_51UchANDcrsR7GnQBxBAHSO8gcUhXo0pQZ0vMV7Ykbokbx5kVNTuU1PgIelwYSumMuf0PYbWPkP2Bv4tNWyLyywTP00TiJfVbov",
 
   // Suggested deposit when someone posts a task: this share of the reward, never less than the minimum.
   // (The database enforces at least 10% of the reward and at least RM 5.)
