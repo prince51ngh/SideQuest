@@ -4,8 +4,8 @@
 // secret key anywhere in this folder.
 export const CONFIG = {
   appName: "SideQuest",
-  supabaseUrl: "https://YOUR-PROJECT-REF.supabase.co",
-  supabaseAnonKey: "YOUR-SUPABASE-ANON-KEY",
+  supabaseUrl: "https://gpmfjifxxuwretqfroxs.supabase.co",
+  supabaseAnonKey: "sb_publishable_8qOksnvJrE5liHEsDyHV8A_VMc0gfQU",
 
   // Suggested deposit when someone posts a task: this share of the reward, never less than the minimum.
   // (The database enforces at least 10% of the reward and at least RM 5.)
